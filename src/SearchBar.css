@@ -1,0 +1,17 @@
+#main {
+    margin-top: 5vh;
+    width: 100%;
+    height: 5vh;
+    /* background-color: #f2f2f2; */
+    /* position: absolute; */
+    top: 0;
+    left: 0;
+    
+}
+
+#inputBar {
+    width: 60%;
+    height: 60%;
+    padding: 3px;
+    
+}

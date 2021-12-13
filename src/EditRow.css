@@ -1,0 +1,23 @@
+#editContainer{
+    /* z-index: 1; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+    width: 100%;
+    height: 5vh;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #ccc;
+}
+
+.editBox{
+    
+    border: black;
+    border-color: #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 1em;
+}

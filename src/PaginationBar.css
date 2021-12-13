@@ -1,0 +1,37 @@
+.pagination-bar {
+    display: flex;
+    width: 60%;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#delButton {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+    color: white;
+    padding: 0.1%;
+    background-color: rgb(243, 95, 95);
+}
+
+#p1 {
+    display: flex;
+    justify-content: center;
+}
+
+#p2{
+    display: flex;
+    justify-content: space-between;
+    gap: 2vw;
+    min-width: 50%;
+}
+#p3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2vw;
+}
+#p4 {
+    cursor: pointer;
+}
